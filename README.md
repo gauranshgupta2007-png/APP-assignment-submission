@@ -1,2 +1,29 @@
-
 [Assignment 1.txt](https://github.com/user-attachments/files/35360204/exp.1.txt)
+
+[Assignment 2.txt](https://github.com/user-attachments/files/35360206/exp.2.txt)
+
+[Assignment 3.txt](https://github.com/user-attachments/files/35360208/exp.3.txt)
+
+[Assignment 4.txt](https://github.com/user-attachments/files/35360209/exp.4.txt)
+
+[Assignment 5.txt](https://github.com/user-attachments/files/35360210/exp.5.txt)
+
+[Assignment 6.txt](https://github.com/user-attachments/files/35360380/exp.5.txt)
+
+[Assignment 7.py](https://github.com/user-attachments/files/35360391/EXP-07.py)
+
+[Assignment 8.py](https://github.com/user-attachments/files/35360392/EXP_08.py)
+
+[Assignment 9.py](https://github.com/user-attachments/files/35360393/EXP_09.py)
+
+[Assignment 10.txt](https://github.com/user-attachments/files/35360395/exp.10.txt)
+
+[Assignment 11.txt](https://github.com/user-attachments/files/35360397/exp.11.txt)
+
+[Assignment 12.txt](https://github.com/user-attachments/files/35360400/exp.12.txt)
+
+[Assignment 13.txt](https://github.com/user-attachments/files/35360401/exp.13.txt)
+
+[Assignment 14.txt](https://github.com/user-attachments/files/35360402/exp.14.txt)
+
+[Assignment 15.txt](https://github.com/user-attachments/files/35360403/exp.15.txt)
